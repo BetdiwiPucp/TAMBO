@@ -1,0 +1,87 @@
+Added Component: Designator=C1(WCAP-ATG5_5X11(DXL))
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Compra"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/860020472003/5727057"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "860020472003"; VariantName = "[No Variations]"
+Added Component: Designator=C2(WCAP-ATG5_5X11(DXL))
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Compra"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/860020472003/5727057"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "860020472003"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAPRR508W54L508T381H660)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Compra"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/kemet/C322C103K5R5TA/818102"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "C322C103K5R5TA"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAPRR508W54L508T381H660)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Compra"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/kemet/C322C103K5R5TA/818102"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "C322C103K5R5TA"; VariantName = "[No Variations]"
+Added Component: Designator=C5(WCAP-ATG5_5X11(DXL))
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Compra"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/860020472003/5727057"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "860020472003"; VariantName = "[No Variations]"
+Added Component: Designator=J1(HUBER+SUHNER_85201239)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/85_SMA-50-0-103/111_NE/Huber%252BSuhner/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "HUBER+SUHNER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "85_SMA-50-0-103/111_NE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/85_SMA-50-0-103/111_NE/Huber%252BSuhner/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J2(HUBER+SUHNER_85201239)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/85_SMA-50-0-103/111_NE/Huber%252BSuhner/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "HUBER+SUHNER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "85_SMA-50-0-103/111_NE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/85_SMA-50-0-103/111_NE/Huber%252BSuhner/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J3(JST_S5B-EH)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/S5B-EH/JST/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "S5B-EH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/S5B-EH/JST/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R1(RESAD1100W55L630D240B)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Compra"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/yageo/MFR50SFTE52-10K/9151037"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "MFR50SFTE52-10K"; VariantName = "[No Variations]"
+Added Component: Designator=R2(PCBComponent_1)
+Added Component: Designator=R3(PCBComponent_1)
+Add Component: Footprint Not Found SOIC127P600X175-8N
+Added Pin To Net: NetName=+4V Pin=C1-1
+Added Pin To Net: NetName=+4V Pin=C3-1
+Added Pin To Net: NetName=+4V Pin=J3-4
+Added Net: Name=+4V
+Added Pin To Net: NetName=-4V Pin=C2-2
+Added Pin To Net: NetName=-4V Pin=C4-2
+Added Pin To Net: NetName=-4V Pin=J3-2
+Added Net: Name=-4V
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=J1-G1
+Added Pin To Net: NetName=GND Pin=J1-G2
+Added Pin To Net: NetName=GND Pin=J1-G3
+Added Pin To Net: NetName=GND Pin=J1-G4
+Added Pin To Net: NetName=GND Pin=J2-G1
+Added Pin To Net: NetName=GND Pin=J2-G2
+Added Pin To Net: NetName=GND Pin=J2-G3
+Added Pin To Net: NetName=GND Pin=J2-G4
+Added Pin To Net: NetName=GND Pin=J3-1
+Added Pin To Net: NetName=GND Pin=J3-3
+Added Pin To Net: NetName=GND Pin=J3-5
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=NetC5_2 Pin=R1-1
+Added Pin To Net: NetName=NetC5_2 Pin=R2-2
+Added Net: Name=NetC5_2
+Added Pin To Net: NetName=Output signal Pin=C5-1
+Added Pin To Net: NetName=Output signal Pin=J2-1
+Added Pin To Net: NetName=Output signal Pin=R1-2
+Added Pin To Net: NetName=Output signal Pin=R3-1
+Added Net: Name=Output signal
+Added Pin To Net: NetName=Signal Pin=J1-1
+Added Net: Name=Signal
+Added Class: Name=Amplificador
+Added Rule: Name=Schematic Supply Nets

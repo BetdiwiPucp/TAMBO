@@ -1,0 +1,10 @@
+Added Component: Designator=U1(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Compra"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/analog-devices-inc/LT6201IS8-PBF/961104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "LT6201IS8#PBF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Output signal Pin=U1-1
+Added Pin To Net: NetName=NetC5_2 Pin=U1-2
+Added Pin To Net: NetName=Signal Pin=U1-3
+Added Pin To Net: NetName=-4V Pin=U1-4
+Added Pin To Net: NetName=+4V Pin=U1-8
+Added Member To Class: ClassName=Amplificador Member=Component U1 LT6201IS8#PBF
